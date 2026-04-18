@@ -1,2 +1,2 @@
-# Athira.A
-Flower Classification
+# streamlit-demo
+A demo repository for streamlit deployment
